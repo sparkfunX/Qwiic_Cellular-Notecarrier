@@ -325,12 +325,16 @@
 <rectangle x1="7.1" y1="-6.15" x2="7.4" y2="-4.4" layer="31"/>
 <rectangle x1="8.6" y1="-6.15" x2="8.9" y2="-4.4" layer="31"/>
 <rectangle x1="9.1" y1="-6.15" x2="9.4" y2="-4.4" layer="31"/>
-<dimension x1="-14" y1="33" x2="-7" y2="-1" x3="-8" y3="16" textsize="1.778" layer="51" dtype="vertical"/>
-<dimension x1="-15" y1="24" x2="15" y2="24" x3="0" y3="22" textsize="1.778" layer="51" dtype="horizontal"/>
 <wire x1="14.4" y1="3" x2="15" y2="3.6" width="0.05" layer="51" curve="86.784874"/>
 <wire x1="14.4" y1="3" x2="10.4" y2="3" width="0.0508" layer="51"/>
 <wire x1="-15" y1="3.6" x2="-14.4" y2="3" width="0.05" layer="51" curve="86.784874"/>
 <wire x1="-14.4" y1="3" x2="-10.4" y2="3" width="0.0508" layer="51"/>
+<dimension x1="-15" y1="35" x2="15" y2="35" x3="0" y3="34" textsize="1.778" layer="51" dtype="horizontal"/>
+<dimension x1="-17" y1="33" x2="-17" y2="-1" x3="-16" y3="16" textsize="1.778" layer="51" dtype="horizontal"/>
+<circle x="11.43" y="25.4" radius="1.620153125" width="0.1524" layer="51"/>
+<circle x="12.43" y="18.4" radius="1.620153125" width="0.1524" layer="51"/>
+<text x="11" y="25" size="0.5" layer="51" ratio="15" align="center">GPS</text>
+<text x="12" y="18" size="0.5" layer="51" ratio="15" align="center">CEL</text>
 </package>
 </packages>
 <symbols>
