@@ -428,6 +428,8 @@
 <text x="92.202" y="150.876" size="1.778" layer="46" font="vector" ratio="15" align="center">v-score</text>
 <wire x1="138.43" y1="-13.97" x2="138.43" y2="148.59" width="0.381" layer="46"/>
 <text x="138.43" y="150.876" size="1.778" layer="46" font="vector" ratio="15" align="center">v-score</text>
+<wire x1="138.43" y1="148.59" x2="138.43" y2="154.94" width="0.381" layer="46"/>
+<text x="138.43" y="157.226" size="1.778" layer="46" font="vector" ratio="15" align="center">v-score</text>
 <wire x1="-6.858" y1="-7.62" x2="145.034" y2="-7.62" width="0.254" layer="20"/>
 <wire x1="145.034" y1="-7.62" x2="145.034" y2="-13.97" width="0.254" layer="20"/>
 <wire x1="145.034" y1="-13.97" x2="-6.858" y2="-13.97" width="0.254" layer="20"/>
@@ -11564,8 +11566,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.62381875" y="131.445" smashed="yes"/>
 <element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.62381875" y="131.445" smashed="yes" rot="MR0"/>
-<element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="140.79981875" y="131.445" smashed="yes"/>
-<element name="E$4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="140.79981875" y="131.445" smashed="yes" rot="MR0"/>
+<element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="140.29181875" y="131.445" smashed="yes"/>
+<element name="E$4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="140.29181875" y="131.445" smashed="yes" rot="MR0"/>
 <element name="E$5" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="-2.62381875" y="6.35" smashed="yes"/>
 <element name="E$6" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="-2.62381875" y="6.35" smashed="yes" rot="MR0"/>
 </elements>
