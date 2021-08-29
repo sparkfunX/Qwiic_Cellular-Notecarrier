@@ -25,13 +25,13 @@ Repository Contents
 Documentation
 --------------
 
-* **[Arduino Library](https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library)** - Main repository (including hardware files)
+* **[Quick Start Guide](https://dev.blues.io/get-started/quickstart/sparkfun-qwiic-cellular)**
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
 
 Products that use this Repository
 --------------
 
-* [SPX-18014](https://www.sparkfun.com/products/18014)
+* [SPX-17114](https://www.sparkfun.com/products/17114)
 
 License Information
 -------------------
