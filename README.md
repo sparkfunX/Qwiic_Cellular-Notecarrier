@@ -20,13 +20,16 @@ Repository Contents
 -------------------
 
 * **/hardware** - Eagle files
-* **/documents** - Datasheets and other source documents
 
 Documentation
 --------------
 
 * **[Quick Start Guide](https://dev.blues.io/get-started/quickstart/sparkfun-qwiic-cellular)**
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
+* **[Notecard API](https://dev.blues.io/reference/notecard-api/introduction/)** - How to interface with Notecard from embedded processor applciations
+* **[Notecard Datasheet](https://dev.blues.io/hardware/notecard-datasheet/note-nbgl-500/)** - Notecard datasheets
+* **[Notecard Design Files](https://github.com/blues/note-hardware/tree/master/Notecard)** - Models and dimensioned drawings of Notecard
+
 
 Products that use this Repository
 --------------
